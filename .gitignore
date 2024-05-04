@@ -1,0 +1,33 @@
+# Compiled JavaScript
+*.js
+*.js.map
+
+# Compiled TypeScript
+*.tsbuildinfo
+
+# Node modules
+node_modules/
+
+# Type definitions
+*.d.ts
+
+# Dependency directories
+pnp-npm/
+pnpify/
+
+# TypeScript cache
+.tscc/
+
+# Yarn
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+assets/experimentos/
+assets/secuencias/
+assets/models/
+assets/targets/

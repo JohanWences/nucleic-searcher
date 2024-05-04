@@ -1,0 +1,1262 @@
+[
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 11,
+    "characterNumber": 10
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 1,
+    "rowIndex": 12,
+    "characterNumber": 11
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 13,
+    "characterNumber": 12
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 14,
+    "characterNumber": 13
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 15,
+    "characterNumber": 14
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 16,
+    "characterNumber": 15
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 17,
+    "characterNumber": 16
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 1,
+    "rowIndex": 18,
+    "characterNumber": 17
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 19,
+    "characterNumber": 18
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 20,
+    "characterNumber": 19
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 22,
+    "characterNumber": 21
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 23,
+    "characterNumber": 22
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 24,
+    "characterNumber": 23
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 1,
+    "rowIndex": 25,
+    "characterNumber": 24
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 26,
+    "characterNumber": 25
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 27,
+    "characterNumber": 26
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 28,
+    "characterNumber": 27
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 29,
+    "characterNumber": 28
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 30,
+    "characterNumber": 29
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 1,
+    "rowIndex": 31,
+    "characterNumber": 30
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 33,
+    "characterNumber": 32
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 34,
+    "characterNumber": 33
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 35,
+    "characterNumber": 34
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 36,
+    "characterNumber": 35
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 37,
+    "characterNumber": 36
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 1,
+    "rowIndex": 38,
+    "characterNumber": 37
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 39,
+    "characterNumber": 38
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 40,
+    "characterNumber": 39
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 41,
+    "characterNumber": 40
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 42,
+    "characterNumber": 41
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 44,
+    "characterNumber": 43
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 45,
+    "characterNumber": 44
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 46,
+    "characterNumber": 45
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 47,
+    "characterNumber": 46
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 48,
+    "characterNumber": 47
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 49,
+    "characterNumber": 48
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 50,
+    "characterNumber": 49
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 1,
+    "rowIndex": 51,
+    "characterNumber": 50
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 52,
+    "characterNumber": 51
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 53,
+    "characterNumber": 52
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 55,
+    "characterNumber": 54
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 56,
+    "characterNumber": 55
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 57,
+    "characterNumber": 56
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 1,
+    "rowIndex": 58,
+    "characterNumber": 57
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 59,
+    "characterNumber": 58
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 60,
+    "characterNumber": 59
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 61,
+    "characterNumber": 60
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 62,
+    "characterNumber": 61
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 63,
+    "characterNumber": 62
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 1,
+    "rowIndex": 64,
+    "characterNumber": 63
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 66,
+    "characterNumber": 65
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 67,
+    "characterNumber": 66
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 68,
+    "characterNumber": 67
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 69,
+    "characterNumber": 68
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 70,
+    "characterNumber": 69
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 1,
+    "rowIndex": 71,
+    "characterNumber": 70
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 72,
+    "characterNumber": 71
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 1,
+    "rowIndex": 73,
+    "characterNumber": 72
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 1,
+    "rowIndex": 74,
+    "characterNumber": 73
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 1,
+    "rowIndex": 75,
+    "characterNumber": 74
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 10,
+    "characterNumber": 87
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 2,
+    "rowIndex": 11,
+    "characterNumber": 88
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 12,
+    "characterNumber": 89
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 13,
+    "characterNumber": 90
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 2,
+    "rowIndex": 14,
+    "characterNumber": 91
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 15,
+    "characterNumber": 92
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 16,
+    "characterNumber": 93
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 2,
+    "rowIndex": 17,
+    "characterNumber": 94
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 18,
+    "characterNumber": 95
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 19,
+    "characterNumber": 96
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 2,
+    "rowIndex": 21,
+    "characterNumber": 98
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 22,
+    "characterNumber": 99
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 23,
+    "characterNumber": 100
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 2,
+    "rowIndex": 24,
+    "characterNumber": 101
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 25,
+    "characterNumber": 102
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 26,
+    "characterNumber": 103
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 2,
+    "rowIndex": 27,
+    "characterNumber": 104
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 28,
+    "characterNumber": 105
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 29,
+    "characterNumber": 106
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 2,
+    "rowIndex": 30,
+    "characterNumber": 107
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 32,
+    "characterNumber": 109
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 33,
+    "characterNumber": 110
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 2,
+    "rowIndex": 34,
+    "characterNumber": 111
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 35,
+    "characterNumber": 112
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 36,
+    "characterNumber": 113
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 2,
+    "rowIndex": 37,
+    "characterNumber": 114
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 38,
+    "characterNumber": 115
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 39,
+    "characterNumber": 116
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 2,
+    "rowIndex": 40,
+    "characterNumber": 117
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 41,
+    "characterNumber": 118
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 43,
+    "characterNumber": 120
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 2,
+    "rowIndex": 44,
+    "characterNumber": 121
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 45,
+    "characterNumber": 122
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 46,
+    "characterNumber": 123
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 2,
+    "rowIndex": 47,
+    "characterNumber": 124
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 48,
+    "characterNumber": 125
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 49,
+    "characterNumber": 126
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 2,
+    "rowIndex": 50,
+    "characterNumber": 127
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 51,
+    "characterNumber": 128
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 52,
+    "characterNumber": 129
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 2,
+    "rowIndex": 54,
+    "characterNumber": 131
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 55,
+    "characterNumber": 132
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 56,
+    "characterNumber": 133
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 2,
+    "rowIndex": 57,
+    "characterNumber": 134
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 58,
+    "characterNumber": 135
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 59,
+    "characterNumber": 136
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 2,
+    "rowIndex": 60,
+    "characterNumber": 137
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 61,
+    "characterNumber": 138
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 62,
+    "characterNumber": 139
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 2,
+    "rowIndex": 63,
+    "characterNumber": 140
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 65,
+    "characterNumber": 142
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 66,
+    "characterNumber": 143
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 2,
+    "rowIndex": 67,
+    "characterNumber": 144
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 68,
+    "characterNumber": 145
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 69,
+    "characterNumber": 146
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 2,
+    "rowIndex": 70,
+    "characterNumber": 147
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 71,
+    "characterNumber": 148
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 2,
+    "rowIndex": 72,
+    "characterNumber": 149
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 2,
+    "rowIndex": 73,
+    "characterNumber": 150
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 2,
+    "rowIndex": 74,
+    "characterNumber": 151
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 10,
+    "characterNumber": 164
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 3,
+    "rowIndex": 11,
+    "characterNumber": 165
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 12,
+    "characterNumber": 166
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 13,
+    "characterNumber": 167
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 3,
+    "rowIndex": 14,
+    "characterNumber": 168
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 15,
+    "characterNumber": 169
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 16,
+    "characterNumber": 170
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 3,
+    "rowIndex": 17,
+    "characterNumber": 171
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 18,
+    "characterNumber": 172
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 19,
+    "characterNumber": 173
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 3,
+    "rowIndex": 21,
+    "characterNumber": 175
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 22,
+    "characterNumber": 176
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 23,
+    "characterNumber": 177
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 3,
+    "rowIndex": 24,
+    "characterNumber": 178
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 25,
+    "characterNumber": 179
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 26,
+    "characterNumber": 180
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 3,
+    "rowIndex": 27,
+    "characterNumber": 181
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 28,
+    "characterNumber": 182
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 29,
+    "characterNumber": 183
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 3,
+    "rowIndex": 30,
+    "characterNumber": 184
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 32,
+    "characterNumber": 186
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 33,
+    "characterNumber": 187
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 3,
+    "rowIndex": 34,
+    "characterNumber": 188
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 35,
+    "characterNumber": 189
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 36,
+    "characterNumber": 190
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 3,
+    "rowIndex": 37,
+    "characterNumber": 191
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 38,
+    "characterNumber": 192
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 39,
+    "characterNumber": 193
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 3,
+    "rowIndex": 40,
+    "characterNumber": 194
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 41,
+    "characterNumber": 195
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 43,
+    "characterNumber": 197
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 3,
+    "rowIndex": 44,
+    "characterNumber": 198
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 45,
+    "characterNumber": 199
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 46,
+    "characterNumber": 200
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 3,
+    "rowIndex": 47,
+    "characterNumber": 201
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 48,
+    "characterNumber": 202
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 49,
+    "characterNumber": 203
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 3,
+    "rowIndex": 50,
+    "characterNumber": 204
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 51,
+    "characterNumber": 205
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 52,
+    "characterNumber": 206
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 3,
+    "rowIndex": 54,
+    "characterNumber": 208
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 55,
+    "characterNumber": 209
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 56,
+    "characterNumber": 210
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 3,
+    "rowIndex": 57,
+    "characterNumber": 211
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 58,
+    "characterNumber": 212
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 59,
+    "characterNumber": 213
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 3,
+    "rowIndex": 60,
+    "characterNumber": 214
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 61,
+    "characterNumber": 215
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 62,
+    "characterNumber": 216
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 3,
+    "rowIndex": 63,
+    "characterNumber": 217
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 65,
+    "characterNumber": 219
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 66,
+    "characterNumber": 220
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 3,
+    "rowIndex": 67,
+    "characterNumber": 221
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 68,
+    "characterNumber": 222
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 69,
+    "characterNumber": 223
+  },
+  {
+    "character": "T",
+    "asciiCode": 84,
+    "rowNumber": 3,
+    "rowIndex": 70,
+    "characterNumber": 224
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 71,
+    "characterNumber": 225
+  },
+  {
+    "character": "A",
+    "asciiCode": 65,
+    "rowNumber": 3,
+    "rowIndex": 72,
+    "characterNumber": 226
+  },
+  {
+    "character": "G",
+    "asciiCode": 71,
+    "rowNumber": 3,
+    "rowIndex": 73,
+    "characterNumber": 227
+  },
+  {
+    "character": "C",
+    "asciiCode": 67,
+    "rowNumber": 3,
+    "rowIndex": 74,
+    "characterNumber": 228
+  }
+]

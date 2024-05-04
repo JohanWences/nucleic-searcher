@@ -1,0 +1,119 @@
+[
+  {
+    "target": "AAACAAACAAACAAACAAAC",
+    "targetNumber": 2007,
+    "targetStatus": "Ok",
+    "targetLocation": {
+      "character": "A",
+      "asciiCode": 65,
+      "rowNumber": 283435,
+      "rowIndex": 11,
+      "characterNumber": 21824429
+    },
+    "nggRule": false
+  },
+  {
+    "target": "TTTCTTTTTTTTTTCTTTTT",
+    "targetNumber": 3947,
+    "targetStatus": "Ok",
+    "targetLocation": {
+      "character": "T",
+      "asciiCode": 84,
+      "rowNumber": 37053,
+      "rowIndex": 43,
+      "characterNumber": 2853047
+    },
+    "nggRule": false
+  },
+  {
+    "target": "TTCTTTTTTTTTTCTTTTTT",
+    "targetNumber": 3948,
+    "targetStatus": "Ok",
+    "targetLocation": {
+      "character": "T",
+      "asciiCode": 84,
+      "rowNumber": 260757,
+      "rowIndex": 27,
+      "characterNumber": 20078239
+    },
+    "nggRule": false
+  },
+  {
+    "target": "ACTTTTTTTTTTTTTTGAGA",
+    "targetNumber": 4437,
+    "targetStatus": "Ok",
+    "targetLocation": {
+      "character": "A",
+      "asciiCode": 65,
+      "rowNumber": 251924,
+      "rowIndex": 12,
+      "characterNumber": 19398083
+    },
+    "nggRule": false
+  },
+  {
+    "target": "AAAAAAAAAAAAAAAAAAAA",
+    "targetNumber": 4817,
+    "targetStatus": "Ok",
+    "targetLocation": {
+      "character": "A",
+      "asciiCode": 65,
+      "rowNumber": 7182,
+      "rowIndex": 70,
+      "characterNumber": 553007
+    },
+    "nggRule": false
+  },
+  {
+    "target": "AAAAAAAAAAAAAAAAAGGC",
+    "targetNumber": 4818,
+    "targetStatus": "Ok",
+    "targetLocation": {
+      "character": "A",
+      "asciiCode": 65,
+      "rowNumber": 45903,
+      "rowIndex": 69,
+      "characterNumber": 3534523
+    },
+    "nggRule": false
+  },
+  {
+    "target": "AAAAAAAAAAAAAAAAAAAA",
+    "targetNumber": 5509,
+    "targetStatus": "Ok",
+    "targetLocation": {
+      "character": "A",
+      "asciiCode": 65,
+      "rowNumber": 7182,
+      "rowIndex": 70,
+      "characterNumber": 553007
+    },
+    "nggRule": false
+  },
+  {
+    "target": "AAAAAAAAAAAAAAAAAAAG",
+    "targetNumber": 6326,
+    "targetStatus": "Ok",
+    "targetLocation": {
+      "character": "A",
+      "asciiCode": 65,
+      "rowNumber": 45903,
+      "rowIndex": 67,
+      "characterNumber": 3534521
+    },
+    "nggRule": false
+  },
+  {
+    "target": "TAATAATAATAATAAAGTAT",
+    "targetNumber": 8483,
+    "targetStatus": "Ok",
+    "targetLocation": {
+      "character": "T",
+      "asciiCode": 84,
+      "rowNumber": 40886,
+      "rowIndex": 66,
+      "characterNumber": 3148211
+    },
+    "nggRule": false
+  }
+]
